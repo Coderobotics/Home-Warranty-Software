@@ -3,6 +3,8 @@
 
 Home Warranty Management PHP Software is based on the CodeIgniter PHP framework with a MySQL database. Its purpose is to help homeowners manage their home warranties after the builder has handed over the home to them. During the first 1-2 years, as specified in the contract, the builder is responsible for issues such as plumbing, painting, and electrical work. To use this system effectively, we need to collect the homeowner’s personal information, address, and contact details, as well as the length of their warranty period (either 1 or 2 years). After the warranty period is over, any necessary services will be charged for. Home Warranty Management PHP script should be able to manage both warranty and paid services. Since builders work with different vendors and suppliers to fix issues, we should have a master list of all suppliers and vendors. In addition, we should maintain a master list of home locations, such as the hall, kitchen, and bedroom. When homeowners submit issues, the admin will allocate vendors based on the issues and track them. Once the warranty period has ended, each issue will be charged for, and the system will have all necessary features. For each issue, homeowners can upload multiple files related to it. We provide the complete source code, so you can customize it as needed for future requirements.
 
+<img src="https://www.phpscriptsonline.com/frontend/assets/templates/1736613199_135754d2df24b63f8d1d.webp">
+
 <b>Home Warranty Management Software has the following key features:</b>
 
 <ul>
@@ -20,5 +22,15 @@ Home Warranty Management PHP Software is based on the CodeIgniter PHP framework 
 <li>Track Progress</li>
 <li>My Profile</li>
 </ul>
-<b>More details and download link:</b>
-https://www.phpscriptsonline.com/product/home-warranty-management-software/
+
+More details and download project
+https://www.phpscriptsonline.com/product/home-warranty-management-software
+
+If you're looking for readymade php scripts
+https://www.phpscriptsonline.com/products
+
+If you're looking for readymade ASP.Net, C# software source code
+https://www.aspscriptsonline.com/products
+
+If you're looking for digital marketing services, insights, AI-powered strategies.
+https://www.coderobotics.com/blog
